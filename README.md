@@ -4,7 +4,7 @@ This is a mini controller for SEGA's arcade rhythm game ONGEKI.
 
 Also posted on BEMANICN forum (in Chinese): [[图一乐\]音击迷你控制器的制作 - BEMANICN](https://bemani.cc/d/142)
 
-![a picture for minigeki](Minigeki v0.3.jpg)
+![a picture for minigeki](./Minigeki v0.3.jpg)
 
 ## Structure
 
